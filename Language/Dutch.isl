@@ -357,6 +357,8 @@ AssocingFileExtension=Bezig met koppelen van %1 aan de %2 bestandsextensie...
 AutoStartProgramGroupDescription=Opstarten:
 AutoStartProgram=%1 automatisch starten
 AddonHostProgramNotFound=%1 kon niet worden gevonden in de geselecteerde map.%n%nWilt u toch doorgaan?
+
+;TK - My custom messages
 ViewReadme=Open de ReadMe file
 AppIsRunning=wordt uitgevoerd, sluit deze dan af om door te gaan met de installatie.
 DeleteConfigFiles=Wil je de instellingen en uitsluitingsbestanden verwijderen? Selecteer 'Nee' als je van plan bent om opnieuw te installeren.

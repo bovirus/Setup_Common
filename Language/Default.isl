@@ -382,6 +382,8 @@ AssocingFileExtension=Associating %1 with the %2 file extension...
 AutoStartProgramGroupDescription=Startup:
 AutoStartProgram=Automatically start %1
 AddonHostProgramNotFound=%1 could not be located in the folder you selected.%n%nDo you want to continue anyway?
+
+;TK - My custom messages
 ViewReadme=View the ReadMe file
 AppIsRunning=is running, please close it to continue with the installation.
-DeleteConfigFiles=Do you want to remove the settings and exclude files? Select 'No' if you plan on reinstalling.
+DeleteConfigFiles=Do you want to remove the settings files? Select 'No' if you plan on reinstalling.

@@ -403,6 +403,8 @@ AssocingFileExtension=%1 wird mit der %2-Dateierweiterung registriert...
 AutoStartProgramGroupDescription=Beginn des Setups:
 AutoStartProgram=Starte automatisch%1
 AddonHostProgramNotFound=%1 konnte im ausgewählten Ordner nicht gefunden werden.%n%nMöchten Sie dennoch fortfahren?
+
+;TK - My custom messages
 ViewReadme=Lesen Sie die ReadMe-Datei
 AppIsRunning=ausgeführt wird, schließen Sie es bitte, um mit der Installation fortzufahren.
 DeleteConfigFiles=Möchten Sie die Einstellungen und Ausschlussdateien entfernen? Wählen Sie 'Nein', wenn Sie eine Neuinstallation planen.

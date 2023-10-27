@@ -390,7 +390,7 @@ AutoStartProgramGroupDescription=Esecuzione automatica:
 AutoStartProgram=Esegui automaticamente %1
 AddonHostProgramNotFound=Impossibile individuare %1 nella cartella selezionata.%n%nVuoi continuare ugualmente?
 
-;TK - My custom messages 
-ViewReadme=Apri il file 'ReadMe'
+;TK - My custom messages
+ViewReadme=Visualizza file ReadMe
 AppIsRunning=è in esecuzione, chiuderlo per continuare l'installazione.
 DeleteConfigFiles=Si desidera rimuovere le impostazioni e i file di esclusione? Selezionare "No" se si intende reinstallare.

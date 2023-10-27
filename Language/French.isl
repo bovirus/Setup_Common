@@ -402,6 +402,8 @@ AssocingFileExtension=Associe %1 avec l'extension de fichier %2...
 AutoStartProgramGroupDescription=Démarrage :
 AutoStartProgram=Démarrer automatiquement %1
 AddonHostProgramNotFound=%1 n'a pas été trouvé dans le dossier que vous avez choisi.%n%nVoulez-vous continuer malgré tout ?
+
+;TK - My custom messages
 ViewReadme=Voir le fichier ReadMe
 AppIsRunning=est en cours d'exécution, veuillez le fermer pour poursuivre l'installation.
 DeleteConfigFiles=Voulez-vous supprimer les paramètres et les fichiers d'exclusion ? Sélectionnez 'Non' si vous prévoyez de réinstaller.
